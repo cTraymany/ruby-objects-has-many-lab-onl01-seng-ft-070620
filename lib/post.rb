@@ -10,9 +10,9 @@ class Post
     @@all << self
   end
 
-  # def self.all
-  #   @@all
-  # end
+  def self.all
+    @@all
+  end
   
   # def artist_name
   #   self.artist != nil ? self.artist.name : nil
