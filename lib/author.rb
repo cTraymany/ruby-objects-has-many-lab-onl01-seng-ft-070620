@@ -2,7 +2,7 @@
 # learn spec/post_spec.rb
 require 'pry'
 
-class Artist
+class Author
   attr_accessor :name, :songs
   
   def initialize(name)
