@@ -1,4 +1,4 @@
-# learn spec/artist_spec.rb
+# learn spec/author_spec.rb
 # learn spec/post_spec.rb
 
 class Post
