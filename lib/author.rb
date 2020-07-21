@@ -1,5 +1,5 @@
-# learn spec/artist_spec.rb
-# learn spec/song_spec.rb
+# learn spec/author_spec.rb
+# learn spec/post_spec.rb
 require 'pry'
 
 class Artist
