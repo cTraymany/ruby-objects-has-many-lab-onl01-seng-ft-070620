@@ -2,7 +2,7 @@
 # learn spec/song_spec.rb
 
 class Post
-  # attr_accessor :name, :artist
+  attr_accessor :title, :author
   # @@all = []
   
   # def initialize(name)
