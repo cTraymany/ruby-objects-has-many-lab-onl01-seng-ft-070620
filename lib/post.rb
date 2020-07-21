@@ -1,6 +1,6 @@
 # learn spec/author_spec.rb
 # learn spec/post_spec.rb
-
+require 'pry'
 class Post
   attr_accessor :title, :author
   # @@all = []
