@@ -3,7 +3,7 @@
 require 'pry'
 class Post
   attr_accessor :title, :author
-  # @@all = []
+  @@all = []
   
   def initialize(title)
     @title = title
@@ -14,8 +14,8 @@ class Post
     @@all
   end
   
-  # def artist_name
+  def author_name
   #   self.artist != nil ? self.artist.name : nil
-  # end
+  end
 
 end
