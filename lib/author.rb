@@ -13,8 +13,8 @@ class Author
     Post.all.select { |post| post.author == self }
   end
   
-  def add_song(song)
-    song.artist = self
+  def add_post(post)
+    post.artist = self
   end
   
   # def add_song_by_name(name)
